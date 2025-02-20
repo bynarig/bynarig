@@ -1,28 +1,93 @@
-<h1 align="center">Hi 👋, I'm Yaroslav</h1>
-<h3 align="center">A passionate fullstack developer from Ukraine</h3>
+# Hi there, I'm Yaroslav Shabelnyk 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bynarig&label=Profile%20views&color=0e75b6&style=flat" alt="bynarig" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabelnyk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shabelnyk63@gmail.com)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://contacts.bynarig.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bynarig)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bynarig" alt="bynarig" /></a> </p>
-
-- 🔭 I’m currently working on **GTA V RP project**
-
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **React**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/bynarig](https://linktr.ee/bynarig)
-
-- 💬 Ask me about **nodeJS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bynarigme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bynarigme" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yaroslav-shabelnyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaroslav-shabelnyk" height="30" width="40" /></a>
-<a href="https://instagram.com/bynarig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bynarig" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72F&width=435&lines=React+Developer;Fullstack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bynarig&" alt="bynarig" /></p>
+### 🎓 Education
+
+- **Physics and Mathematics Lyceum in Cherkasy, Ukraine**  
+  _Top 3 school in Ukraine (2021)_  
+  ⇝ Learned valuable lessons, but regret not learning German to communicate with colleagues in their native language.
+
+- **Czech Technical University in Prague**  
+  - **MUVS Czech Courses** (2023-2024)  
+  - **Faculty of Information Technology** (Started in 2024)
+
+---
+
+### 💼 Work Experience
+
+- **Summer 2022**: Founded my own startup, serving as CEO and Team Lead for 10 months.  
+- **Summer 2023**: Worked as a **Frontend Developer** on a GTA V roleplay project, managing a large codebase.  
+- **Spring 2024**: Joined **CULT b2b** startup as a Full-Stack Developer, improving communication between coffee shops and roasteries.
+
+---
+
+### 🛠️ Skills
+
+#### **Hard Skills**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+#### **Soft Skills**
+- Teamwork 🤝
+- Communication 🗣️
+- Adaptability 🔄
+- Problem-Solving 🧩
+- Leadership 🚀
+- Time Management ⏰
+- Conflict Resolution ⚖️
+
+---
+
+### 🌍 Languages I Speak
+- **Native**: Ukrainian, Russian  
+- **Fluent**: English, Czech  
+
+---
+
+### 🏆 Achievements & Interests
+
+- **Robotics Team Lead** (Spring 2021-Spring 2022): Developed strong communication skills and took my first steps into coding.  
+- **Startup Founder**: Created a Tripadvisor-like platform with enhanced functionality after the war in Ukraine began.  
+- **GTA V RP Server**: Collaborated with friends to build a server on Rage MP, focusing on bug fixes, refactoring, and module updates.  
+- **CULT b2b Startup**: Joined as a Full-Stack Developer to create an app streamlining communication between coffee shops and roasteries.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bynarig&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bynarig&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bynarig&theme=react-dark" />
+</p>
+
+---
+
+### 💡 Fun Fact
+
+```javascript
+const aboutMe = {
+  code: ["JavaScript", "TypeScript", "React", "Node.js"],
+  tools: ["Firebase", "MongoDB", "Git", "Linux"],
+  hobbies: ["Coding", "Gaming", "Learning New Technologies"],
+  goal: "Become a world-class Full-Stack Developer and build impactful projects!"
+};
