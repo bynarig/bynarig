@@ -15,7 +15,6 @@
 
 - **Physics and Mathematics Lyceum in Cherkasy, Ukraine**  
   _Top 3 school in Ukraine (2021)_  
-  ⇝ Learned valuable lessons, but regret not learning German to communicate with colleagues in their native language.
 
 - **Czech Technical University in Prague**  
   - **MUVS Czech Courses** (2023-2024)  
